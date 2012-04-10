@@ -1,0 +1,12 @@
+{
+  "name": "Donuts Samples",
+  "version": "1.0",
+  "description": "Some sample donuts from http://www.visualizing.org/visualizations/uk-olympic-sentiment-analysis.",
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "offline_enabled": true
+  
+}
